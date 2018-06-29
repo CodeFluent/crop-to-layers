@@ -1,4 +1,4 @@
-Photoshop HTML5 extension example
+# Crop-to-layers Photoshop Extension
 ===========================
 
-A starting point for HTML5 Photoshop extension development
+An extension to use various presets to crop photos to layers instead of cropping all layers in Photoshop.
