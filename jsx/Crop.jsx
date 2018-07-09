@@ -11,6 +11,10 @@
 
 // Save each preset crop to its own layer
 
+var rawImage = app.activeDocument
+
+
+
 
 /*
 *   If your script is in this main startup folder, it 
@@ -20,6 +24,6 @@
 *   such as the following: 
 */
 
-if (BridgeTalk.appName == "photoshop") {
-    // continue executing script
-}
+// if (BridgeTalk.appName == "photoshop") {
+//     // continue executing script
+// }

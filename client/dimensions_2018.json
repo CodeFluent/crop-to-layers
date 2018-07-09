@@ -1,0 +1,36 @@
+[
+    {
+        "dimensions": [
+            {
+                "name": "square",
+                "height": 600,
+                "width": 600
+            },
+            {
+                "name": "landscape",
+                "height": 1920,
+                "width": 1080
+            },
+            {
+                "name": "portrait",
+                "height": 1080,
+                "width": 1350
+            }
+        ]
+    }
+]
+// {
+//     "name": "square",
+//     "height": 600,
+//     "width": 600
+// },
+// {
+//     "name": "landscape",
+//     "height": 1920,
+//     "width": 1080
+// },
+// {
+//     "name": "portrait",
+//     "height": 1080,
+//     "width": 1350
+// }
